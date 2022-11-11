@@ -1,2 +1,2 @@
-# Unit_Converter
- An app made with HTML, CSS and Javascript
+# Unit-Converter
+ simple unit converter app
